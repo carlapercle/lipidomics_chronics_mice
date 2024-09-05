@@ -1,5 +1,8 @@
 # Working directory: code
-setwd("~/lipidomics/raton/000chronics")  # example: "~/lipidomics/chronics/code"
+
+setwd("your/path/code")  
+
+# example: setwd("~/lipidomics/raton/000chronics/code")
 
 # This script might appear complex, but its purpose is to reformat our data 
 # correctly for uploading it to the LINEX2 web tool with various nomenclatures. 
