@@ -1,9 +1,8 @@
 # Working directory: code
 
-# setwd("your/path/code")  
+setwd("your/path/code")  
 
-# example: 
-setwd("~/lipidomics/raton/000chronics/code")
+# example: setwd("~/lipidomics/raton/000chronics/code")
 
 rm (list = ls ())
 
